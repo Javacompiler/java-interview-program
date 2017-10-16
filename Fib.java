@@ -1,7 +1,7 @@
 package com.job;
 
 
-public class Fib {
+public class Fibonacci {
 	public static void main(String[] args) {
 		int fib0=0;
 		int fib1=1;
